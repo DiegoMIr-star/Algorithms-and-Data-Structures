@@ -5,7 +5,7 @@
 #define MAX 24
 #define DIM 256
 
-
+//Owner Diego Mirabella
 typedef struct{
     char nome[DIM];
 }nome_lungo;
@@ -1265,4 +1265,5 @@ void dealloca_liste(liste_preparati* testa){
         free(temp);
     }
     return;
+
 }
