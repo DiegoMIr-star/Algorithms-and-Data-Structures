@@ -2,7 +2,7 @@
 
 - Owner: Diego Mirabella
 
-This project was developed as part of a Data Structures and Algorithms course and focuses on the efficient management of an industrial pastry shop.
+This non-commercial project was developed as part of a Data Structures and Algorithms course and focuses on the efficient management of an industrial pastry shop.
 The full problem specification and technical requirements are thoroughly described in the repository.
 
 ## **📘 Project Overview**
