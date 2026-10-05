@@ -5,12 +5,12 @@
 This non-commercial project was developed as part of a Data Structures and Algorithms course and focuses on the efficient management of an industrial pastry shop.
 The full problem specification and technical requirements are thoroughly described in the repository.
 
-## **📘 Project Overview**
+## ** Project Overview**
 
 The goal of the project was to simulate and manage the operations of an industrial pastry shop, including recipe management, ingredient storage, and order processing.
 Efficiency—both in terms of time and space—was the primary evaluation criterion.
 
-## **🧩 Data Structures Used**
+## ** Data Structures Used**
 
 Hash Tables were employed for:
 
@@ -22,7 +22,7 @@ Singly Linked Lists were used to implement queues representing the incoming orde
 
 These choices ensured fast access and minimal overhead during both read and update operations.
 
-## **⚙️ Performance and Evaluation**
+## ** Performance and Evaluation**
 
 The project was assessed primarily on computational efficiency.
 Results on the professor’s official simulator were as follows:
@@ -33,7 +33,7 @@ Results on the professor’s official simulator were as follows:
 
 The implementation was recognized as fully compliant and optimal, earning the highest possible grade for both correctness and performance.
 
-## **📂 Repository Content**
+## ** Repository Content**
 
 The repository includes:
 
